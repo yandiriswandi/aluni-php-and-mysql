@@ -1,0 +1,3 @@
+Time : 11:24:00
+SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '' for key 'PRIMARY'
+Raw SQL : INSERT INTO aluni_pengguna VALUES ('', '86382f2b2fda56a11bc2cfedaf27e5de550669ac5ddfc9249121a4f6250d038d91d725318e0bcf8464a9c266e1c869078d0583ed4bc07e78913581fb93691124', '89a7df76292e3b93306ccd4a06f294361dedc4338011abc1e700605b8a7fa554', 'user', 'ya', 'yandiuftcukv', '', 'no-img.jpg', '3', 'admin', NOW(), 'admin', NOW(), '0')

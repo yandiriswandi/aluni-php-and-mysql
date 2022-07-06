@@ -1,0 +1,14 @@
+Time : 06:45:01
+SQLSTATE[HY000] [1049] Unknown database 'aluni_v2'
+
+Time : 06:44:38
+SQLSTATE[HY000] [1049] Unknown database 'aluni_v2'
+
+Time : 06:44:36
+SQLSTATE[HY000] [1049] Unknown database 'aluni_v2'
+
+Time : 06:44:26
+SQLSTATE[HY000] [1049] Unknown database 'aluni_v2'
+
+Time : 06:44:25
+SQLSTATE[HY000] [1049] Unknown database 'aluni_v2'

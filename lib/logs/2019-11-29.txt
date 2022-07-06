@@ -1,0 +1,43 @@
+Time : 06:20:16
+SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '' for key 'PRIMARY'
+Raw SQL : INSERT INTO aluni_pengguna VALUES ('', 'd8ac036cff26368ac6214f9b98a6b0ad3f81ede697cbedc44a7e5febc4f9b3a9aa4d5a725c31faedab2c681c5ac59f70db0cc1fc767c0432b18cd9709ee6cd83', '862dcfc62643b039a19b666454c6889bdf8a2228398cadc2bb2acfb13b2633ac', 'user', 'ya', 'feqfewqf', '', 'no-img.jpg', '14', 'admin', NOW(), 'admin', NOW(), '0')
+
+Time : 06:01:12
+SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '' for key 'PRIMARY'
+Raw SQL : INSERT INTO aluni_pengguna VALUES ('', '8a6b7c0fb0c86430ef35e75ca2c710148d43a580adfd0ac25558b60e6923af55e2a6bcb889de9100f5eb9db228bf4bce30d22ab4270fc491353043d9d0d5a8b4', '79a34c8b7bb4cf0cdf5da07c6d378bc5b2939f5a104270e30b7da2e0b1f9be09', 'user', 'ya', 'muhammad aksan', '', 'no-img.jpg', '13', 'admin', NOW(), 'admin', NOW(), '0')
+
+Time : 05:57:31
+SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '' for key 'PRIMARY'
+Raw SQL : INSERT INTO aluni_pengguna VALUES ('', '1565330c71840f0d8177046ddc1a5833146cafd8365217ffe175610d2d56eaf5e05e1d4bd43f726ae5136eb01d64289018b6db47ee921c12eab0e1fdb62a8ff9', '98450350829485c33b5f8c72f13b57629c730e0c033e8e4fb3a2d3c998c7b9b3', 'user', 'ya', 'yandi riswandi eee', '', 'no-img.jpg', '12', 'admin', NOW(), 'admin', NOW(), '0')
+
+Time : 05:55:21
+SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '' for key 'PRIMARY'
+Raw SQL : INSERT INTO aluni_pengguna VALUES ('', '612121eb868e914b691e7f783ce1f38c9f4dc891c82217aad4174a037ac4c814706349f7813a4ed62f8550cbeef17792d2c72e642dfae0376c118500b79d65dc', '98692767f868229dbc9808e65fb17d52389f82576d0a6d90a7949ee2357eb386', 'user', 'ya', 'muhammmad', '', 'no-img.jpg', '10', 'admin', NOW(), 'admin', NOW(), '0')
+
+Time : 05:54:41
+SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '' for key 'PRIMARY'
+Raw SQL : INSERT INTO aluni_pengguna VALUES ('', '968afacf0918135923d3dd2c43fa98b42bff2f23d8df616c240dd1d33fb5e0296f1ac269827b813cabda5ca054bf3cf6431121fc5c066fbef741dcad9459bb02', '8d202f3cd2a2ae83ec2e63e9f8676d88c324e4295562903439a74d90511616d2', 'user', 'ya', 'yandi kaaahhh', '', '.jpeg', '9', 'admin', NOW(), 'admin', NOW(), '0')
+
+Time : 05:54:17
+SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '' for key 'PRIMARY'
+Raw SQL : INSERT INTO aluni_pengguna VALUES ('', 'ea6f449acf67a5c43eeefe8e53f2e9f88220f210cd236626db254a9a3b2707450bbd870d35872447992c9ccb1f9e4f09eb9a6934a92cd6d9ec3feb58e7a8390c', 'a557ce1d695104ee3b38e857077c1f2406d589a1e5e5a26e64726c14da6d7e0f', 'user', 'ya', 'yandi kaaahhh', '', '.jpeg', '8', 'admin', NOW(), 'admin', NOW(), '0')
+
+Time : 05:53:58
+SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '' for key 'PRIMARY'
+Raw SQL : INSERT INTO aluni_pengguna VALUES ('', '919a7e113da16fcd5686fe2a0105b6c48f646772148ee81b9a6213da13aaedda168d817f859804825d9ebac68aa7606c832fb7380b2ec5f420d44dea4e231147', '17d780d9a1f0baf43db8c2c35fb0ed3be346f6cfcb26d4ea08070dd9d67cd023', 'user', 'ya', 'sdad', '', '.jpeg', '7', 'admin', NOW(), 'admin', NOW(), '0')
+
+Time : 05:53:29
+SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '' for key 'PRIMARY'
+Raw SQL : INSERT INTO aluni_pengguna VALUES ('', '96ca5ec122598bc6256150e0fac347c437b49f9a85da6e9ac862097291981d0108fa4fe884ee5825508d5c3508775447b01868e75b02e652fc4c9a1fd028322b', '56adf6afae54510883b6c4cc37fb19d4e55547e76af8c120767327b4b87e3dfe', 'user', 'ya', 'safasf', '', 'no-img.jpg', '6', 'admin', NOW(), 'admin', NOW(), '0')
+
+Time : 05:53:20
+SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '' for key 'PRIMARY'
+Raw SQL : INSERT INTO aluni_pengguna VALUES ('', 'cd18224f2a2b911185aa677ecf70799ed50a5ab5f36dbbd32c7893d012487035981292146a07b8aaf856acb6f6401b15cb9d2529383b28d73ad0d90266fe2106', 'fa0aed86f8f6c37284b4e4eba9f30f74c5e8d43f9eaeea53b4ccd022fa686c60', 'user', 'ya', 'safasf', '', 'no-img.jpg', '5', 'admin', NOW(), 'admin', NOW(), '0')
+
+Time : 05:53:10
+SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '' for key 'PRIMARY'
+Raw SQL : INSERT INTO aluni_pengguna VALUES ('', '96fe84d66cbbdb44a5c7556a9d55f2019aa4e49821d1ea1508309d468175d32ddf0dab9630f5049e495be33c1042199be06bd3da7d753bf97a6c8e4bed46d456', '686485ae82c87abb44cb0a71054268794f1847ba266e7b7f8627304df5c1bfcc', 'user', 'ya', 'safasf', '', 'no-img.jpg', '4', 'admin', NOW(), 'admin', NOW(), '0')
+
+Time : 05:52:52
+SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '' for key 'PRIMARY'
+Raw SQL : INSERT INTO aluni_pengguna VALUES ('', 'f9554f388cca8307924b6e4b554548a823ebccc4b7d1539bd3d7bf4823277af0da4dc06f01083c773551c4943b3e88933aa75d33e525b8b7aeb15055afaf3e07', '840cc5ed068869c5a7d35f6e24d2bb64fbfeb4742ebec9249e52c7af02b026cc', 'user', 'ya', 'safasf', '', 'no-img.jpg', '3', 'admin', NOW(), 'admin', NOW(), '0')

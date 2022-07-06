@@ -1,0 +1,15 @@
+Time : 14:30:28
+SQLSTATE[HY000]: General error: 1356 View 'aluni_v2.aluni_v_anggota_lengkap' references invalid table(s) or column(s) or function(s) or definer/invoker of view lack rights to use them
+Raw SQL : SELECT * FROM aluni_v_anggota_lengkap  WHERE aktif = 'ya'  ORDER BY nama_lengkap ASC
+
+Time : 14:30:25
+SQLSTATE[HY000]: General error: 1356 View 'aluni_v2.aluni_v_anggota_lengkap' references invalid table(s) or column(s) or function(s) or definer/invoker of view lack rights to use them
+Raw SQL : SELECT * FROM aluni_v_anggota_lengkap  WHERE aktif = 'ya'  ORDER BY nama_lengkap ASC
+
+Time : 14:29:32
+SQLSTATE[HY000]: General error: 1356 View 'aluni_v2.aluni_v_anggota_lengkap' references invalid table(s) or column(s) or function(s) or definer/invoker of view lack rights to use them
+Raw SQL : SELECT id_anggota FROM aluni_v_anggota_lengkap  WHERE jenis_kelamin = 'laki-laki' AND aktif = 'ya'
+
+Time : 14:29:24
+SQLSTATE[HY000]: General error: 1356 View 'aluni_v2.aluni_v_anggota_lengkap' references invalid table(s) or column(s) or function(s) or definer/invoker of view lack rights to use them
+Raw SQL : SELECT id_anggota FROM aluni_v_anggota_lengkap  WHERE jenis_kelamin = 'laki-laki' AND aktif = 'ya'

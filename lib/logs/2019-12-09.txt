@@ -1,0 +1,19 @@
+Time : 09:17:03
+SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '' for key 'PRIMARY'
+Raw SQL : INSERT INTO aluni_pengguna VALUES ('', 'b96daff3583307fe840e48f5a9f4ca8fa456644f8d6443acf9f73d6acd668aa286c2439737cbf9e26d09db9a7b125b4a1aca417650133d98469fd5f31e69c980', 'c6ee19ca6fc4d8355921aea6d3d53bef77fd8f05c977494217889e4cfe244ba8', 'user', 'ya', 'yandi riswandi', '', 'no-img.jpg', '6', 'admin', NOW(), 'admin', NOW(), '0')
+
+Time : 09:03:57
+SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '' for key 'PRIMARY'
+Raw SQL : INSERT INTO aluni_pengguna VALUES ('', '06996a188afd7d92ba2435ce61d037c9c286751a2bf1d3a898e417be40fd71896437ef5d9cbb774683235ec69d2d6745fd7833c26f7de25ccb1fb653afa75fce', 'de2a4f4a1c579a971700cfc8eff76a01c09cdd7a866055003c64be5169c8757e', 'user', 'ya', 'hendik', '', 'no-img.jpg', '4', 'admin', NOW(), 'admin', NOW(), '0')
+
+Time : 08:59:56
+SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '' for key 'PRIMARY'
+Raw SQL : INSERT INTO aluni_pengguna VALUES ('', '0bc1400fd523b141d3bbe3f2447bf0fda4a3dec7d434bde744a4d6adebd88d2b87b67bfebe5d266be075963d34f1a9eff343a8c912238898dd09de1af2dbaf2a', '418653776a66d920ad8732bafcd1bdbbf2491adc8f82e6f5d334ebda692a6d1e', 'user', 'ya', 'yandi riswandi', '', 'no-img.jpg', '3', 'admin', NOW(), 'admin', NOW(), '0')
+
+Time : 08:31:38
+SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '' for key 'PRIMARY'
+Raw SQL : INSERT INTO aluni_pengguna VALUES ('', 'a4870d4b79c0ae2755901a187732781fd4510e84d0286d0f4109665533d37bbac91a6a22b1729df499d01995b2b63c64a10304517dc6607231a69a9d5585eb47', 'd1bc8e84d10d40215468474219f92c208ca7801a5e33556b0d1ddcbd54d9bc41', 'user', 'ya', 'herdi maulanan', '', 'no-img.jpg', '3', 'admin', NOW(), 'admin', NOW(), '0')
+
+Time : 08:23:09
+SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '' for key 'PRIMARY'
+Raw SQL : INSERT INTO aluni_pengguna VALUES ('', 'c11c7985a13900b920d6b38c1c7a0c7892636c95cb7438f77c210b7c27ffa0723c465ec376f5bb9655bad397186a2bd080a7591802a6846d7e02a2e3cc56a426', '321952692961813ecce713074f3deaacf917aa20bfa007e47e9aa3cea8423481', 'user', 'ya', 'maman setiawan', '', '.jpg', '5', 'admin', NOW(), 'admin', NOW(), '0')

@@ -1,0 +1,19 @@
+Time : 17:30:44
+SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '' for key 'PRIMARY'
+Raw SQL : INSERT INTO aluni_pengguna VALUES ('', 'e255a1cda5f0b73061fdcd1c0086c47507008211ed12dcaf02f5f241048676bae36e0921d849f4450292b9d86c12f513dce3f384b83ac5883fa9494e9a89d2e0', '132b5a567aa15140b43ac2099d3d91dfbb57f9cc1612abc71c20e232a0954e25', 'user', 'ya', 'mamanabdr', '', 'no-img.jpg', '4', 'admin', NOW(), 'admin', NOW(), '0')
+
+Time : 17:29:44
+SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '' for key 'PRIMARY'
+Raw SQL : INSERT INTO aluni_pengguna VALUES ('', '2db4da0221a48a91c04521a55938938a61a2a94c6454fece4e714c77e1a7d9f982f06825278b806ea2461d2f6b931b652b866213785b33b2713f5aedf28ffc22', 'bfe6c5b090bfeba6e3a66616f6a618452580bcba541c5fe5d76bc29cf22ad69a', 'user', 'ya', 'yayan', '', 'no-img.jpg', '3', 'admin', NOW(), 'admin', NOW(), '0')
+
+Time : 10:45:04
+SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '' for key 'PRIMARY'
+Raw SQL : INSERT INTO aluni_pengguna VALUES ('', '6620075712ee855e91fdb7cb66080c90eda5a0beb65f6c07ba933e6783db1aeabc6cbde5e29b121c47e2cee572860087d5b05dce2915d41bfe66b300f725ee84', '9102ed98c60d5b5f53215d68163e8be35bdd66106b6b93cf3237fb9a3cb1afa9', 'user', 'ya', 'muhamad ramdan', '', 'no-img.jpg', '5', 'admin', NOW(), 'admin', NOW(), '0')
+
+Time : 10:44:53
+SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '' for key 'PRIMARY'
+Raw SQL : INSERT INTO aluni_pengguna VALUES ('', 'b930b9d7727eeb2db2bc031f0e397dadcbef6673ff42593ad3ab0a8b6516fedbd40f8fab0710513ef3c08edc7fe558ea4e228d59875ffccea5ec181f8af16345', 'f239496832db8c1bd09e837325021c4c75680c0190e0c09d16981e840549587d', 'user', 'ya', 'muhamad ramdan', '', 'no-img.jpg', '4', 'admin', NOW(), 'admin', NOW(), '0')
+
+Time : 10:44:10
+SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '' for key 'PRIMARY'
+Raw SQL : INSERT INTO aluni_pengguna VALUES ('', '09b9df9fc3bd4a5d7408d66ae1429e0adf2667f3c5773bd35bc89db683a18866dee9fd851c3264361d742e7e05fc0cee4fb9a2df42b3f207065306502157f5fb', '7b2147610a724594574f3e6e30cad57b9ea216e90d4d401b45ad69f750c4e952', 'user', 'ya', 'muhamad ramdan', '', 'no-img.jpg', '3', 'admin', NOW(), 'admin', NOW(), '0')

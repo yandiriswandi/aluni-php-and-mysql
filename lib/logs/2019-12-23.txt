@@ -1,0 +1,197 @@
+Time : 14:52:49
+SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '' for key 'PRIMARY'
+Raw SQL : INSERT INTO aluni_pengguna VALUES ('', 'd078c14a860313d86082c0b359a79000206b00a9f07d446eac4a398216fad65c2c87e37bae5c6a82a29d5c8884229378514ed4f6400bcabcd02ad9eae9847146', 'eacf10e06048a8dc9e04634271ca407c0f807f797fa4a93d341b4800791b067d', 'user', 'ya', 'ssssss', '', '.png', '15', 'admin', NOW(), 'admin', NOW(), '0')
+
+Time : 14:52:26
+SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '' for key 'PRIMARY'
+Raw SQL : INSERT INTO aluni_pengguna VALUES ('', 'a40985d231dee743321d248a6aaa782ec0b9949a87ca04842a0480fbef92bf1d1d7c42ef082d6a3d2337fdaf8cc71dead87a3efd9050202d95cd873cbe76794c', '075efebb36e5298d2ab22a9fbd27d56e0c621bdb03db263502714916d9e9d66d', 'user', 'ya', 'jajasdfds', '', '.png', '14', 'admin', NOW(), 'admin', NOW(), '0')
+
+Time : 14:52:19
+SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '' for key 'PRIMARY'
+Raw SQL : INSERT INTO aluni_pengguna VALUES ('', 'c2cf9322406efd25431b5e130b380d8fb6227452aebda43ecd50039e21d693590ff74ee0c019471b87bfe09bd5ef5f2554dadccac0a483f8e210ad2b2c81ec60', '03c8c5849ee58579a1241c70e25f6781142c288d856fbd66ea68d35c4bf3df89', 'user', 'ya', 'jajasdfds', '', '.png', '13', 'admin', NOW(), 'admin', NOW(), '0')
+
+Time : 14:51:44
+SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '' for key 'PRIMARY'
+Raw SQL : INSERT INTO aluni_pengguna VALUES ('', '002a4b6f5285daf465487ad4fb9a277e879b559bc16c42d1563133b69e1d97cb913caa4cfc6801c9ccdcdbe0896e50ae0d3310b650e264406dc6bb02d0d9681d', '7f81b435cd00b7be1645568e78355f49766b499e2f5d9a94711ef86e6fe94b07', 'user', 'ya', 'jajasdfds', '', '.png', '12', 'admin', NOW(), 'admin', NOW(), '0')
+
+Time : 14:50:58
+SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '' for key 'PRIMARY'
+Raw SQL : INSERT INTO aluni_pengguna VALUES ('', '8a7fa43c8c831c0598ec982ae814c9025b4db9e26348c30349a3c989f7ff0c3052d69e1590dd6504b07231061d241eda5b4224b91e317b9d6aebb81c7801dcf1', '1d91371dacfab51e723ebc68a435b9422f5c174d5bc8fa3d8ff18967467799fe', 'user', 'ya', 'jajasdfds', '', '.png', '11', 'admin', NOW(), 'admin', NOW(), '0')
+
+Time : 14:45:34
+SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '' for key 'PRIMARY'
+Raw SQL : INSERT INTO aluni_pengguna_hak_akses VALUES ('', '', NOW())
+
+Time : 14:40:40
+SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '' for key 'PRIMARY'
+Raw SQL : INSERT INTO aluni_pengguna VALUES ('', 'd684ac18e96755075b539d0a79ec0e03ed5fccda157ee9246e94d4fe221786ed114942062ac3f26f59745b48c44965d8ff1787ccc63115fcbc1024849797f620', 'a3206b9e7d2773dc2d6f5e8a374c66d604098c398b1b4f26d92326323b8bc5eb', 'user', 'ya', 'ffhgfhfgfhgf', '', '.png', '9', 'admin', NOW(), 'admin', NOW(), '0')
+
+Time : 14:40:09
+SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '' for key 'PRIMARY'
+Raw SQL : INSERT INTO aluni_pengguna_hak_akses VALUES ('', '', NOW())
+
+Time : 14:39:38
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '', 
+				'ffhgfhfgfhgf', 
+				'laki-laki', 
+				'Kabupaten Aceh Besar', 
+				'201' at line 4
+Raw SQL : INSERT INTO aluni_anggota_dasar VALUES 
+			(
+				'',
+				ffhgfhfgfhgf', 
+				'ffhgfhfgfhgf', 
+				'laki-laki', 
+				'Kabupaten Aceh Besar', 
+				'2019/10/04', 
+				'1', '.png', '14', '', 
+				'<p>&nbsp;hh</p>', 'ya', 'admin',
+				 NOW(), 'admin', NOW(), '0')
+
+Time : 14:39:19
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '', 
+				'ffhgfhfgfhgf', 
+				'laki-laki', 
+				'Kabupaten Aceh Besar', 
+				'201' at line 4
+Raw SQL : INSERT INTO aluni_anggota_dasar VALUES 
+			(
+				'',
+				ffhgfhfgfhgf', 
+				'ffhgfhfgfhgf', 
+				'laki-laki', 
+				'Kabupaten Aceh Besar', 
+				'2019/10/04', 
+				'1', '.png', '14', '', 
+				'<p>&nbsp;hh</p>', 'ya', 'admin',
+				 NOW(), 'admin', NOW(), '0')
+
+Time : 14:38:58
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '', 
+				'ffhgfhfgfhgf', 
+				'laki-laki', 
+				'Kabupaten Aceh Besar', 
+				'201' at line 4
+Raw SQL : INSERT INTO aluni_anggota_dasar VALUES 
+			(
+				'',
+				ffhgfhfgfhgf', 
+				'ffhgfhfgfhgf', 
+				'laki-laki', 
+				'Kabupaten Aceh Besar', 
+				'2019/10/04', 
+				'1', '.png', '14', '', 
+				'<p>&nbsp;hh</p>', 'ya', 'admin',
+				 NOW(), 'admin', NOW(), '0')
+
+Time : 14:38:43
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '', 
+				'ffhgfhfgfhgf', 
+				'laki-laki', 
+				'Kabupaten Aceh Besar', 
+				'201' at line 4
+Raw SQL : INSERT INTO aluni_anggota_dasar VALUES 
+			(
+				'',
+				ffhgfhfgfhgf', 
+				'ffhgfhfgfhgf', 
+				'laki-laki', 
+				'Kabupaten Aceh Besar', 
+				'2019/10/04', 
+				'1', '.png', '14', '', 
+				'<p>&nbsp;hh</p>', 'ya', 'admin',
+				 NOW(), 'admin', NOW(), '0')
+
+Time : 14:38:15
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '', 
+				'ffhgfhfgfhgf', 
+				'laki-laki', 
+				'Kabupaten Aceh Besar', 
+				'201' at line 4
+Raw SQL : INSERT INTO aluni_anggota_dasar VALUES 
+			(
+				'',
+				ffhgfhfgfhgf', 
+				'ffhgfhfgfhgf', 
+				'laki-laki', 
+				'Kabupaten Aceh Besar', 
+				'2019/10/04', 
+				'1', '.png', '14', '', 
+				'<p>&nbsp;hh</p>', 'ya', 'admin',
+				 NOW(), 'admin', NOW(), '0')
+
+Time : 14:37:34
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '', 
+				'ffhgfhfgfhgf', 
+				'laki-laki', 
+				'Kabupaten Aceh Besar', 
+				'201' at line 4
+Raw SQL : INSERT INTO aluni_anggota_dasar VALUES 
+			(
+				'',
+				ffhgfhfgfhgf', 
+				'ffhgfhfgfhgf', 
+				'laki-laki', 
+				'Kabupaten Aceh Besar', 
+				'2019/10/04', 
+				'1', '.png', '14', '', 
+				'<p>&nbsp;hh</p>', 'ya', 'admin',
+				 NOW(), 'admin', NOW(), '0')
+
+Time : 14:36:23
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '', 
+				'ffhgfhfgfhgf', 
+				'laki-laki', 
+				'Kabupaten Aceh Besar', 
+				'201' at line 4
+Raw SQL : INSERT INTO aluni_anggota_dasar VALUES 
+			(
+				'',
+				ffhgfhfgfhgf', 
+				'ffhgfhfgfhgf', 
+				'laki-laki', 
+				'Kabupaten Aceh Besar', 
+				'2019/10/04', 
+				'1', '.png', '14', '', 
+				'<p>&nbsp;hh</p>', 'ya', 'admin',
+				 NOW(), 'admin', NOW(), '0')
+
+Time : 14:30:03
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '', 'ffhgfhfgfhgf', 'laki-laki', 'Kabupaten Aceh Besar', '2019/10/04', '1', '.png' at line 1
+Raw SQL : INSERT INTO aluni_anggota_dasar VALUES ('',ffhgfhfgfhgf', 'ffhgfhfgfhgf', 'laki-laki', 'Kabupaten Aceh Besar', '2019/10/04', '1', '.png', '14', '', '<p>&nbsp;hh</p>', 'ya', 'admin', NOW(), 'admin', NOW(), '0')
+
+Time : 14:29:10
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '', 'ffhgfhfgfhgf', 'laki-laki', 'Kabupaten Aceh Besar', '2019/10/04', '1', '.png' at line 1
+Raw SQL : INSERT INTO aluni_anggota_dasar VALUES (ffhgfhfgfhgf', 'ffhgfhfgfhgf', 'laki-laki', 'Kabupaten Aceh Besar', '2019/10/04', '1', '.png', '14', '', '<p>&nbsp;hh</p>', 'ya', 'admin', NOW(), 'admin', NOW(), '0')
+
+Time : 14:28:36
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '', 'ffhgfhfgfhgf', 'laki-laki', 'Kabupaten Aceh Besar', '2019/10/04', '1', '.png' at line 1
+Raw SQL : INSERT INTO aluni_anggota_dasar VALUES ('', ffhgfhfgfhgf', 'ffhgfhfgfhgf', 'laki-laki', 'Kabupaten Aceh Besar', '2019/10/04', '1', '.png', '14', '', '<p>&nbsp;hh</p>', 'ya', 'admin', NOW(), 'admin', NOW(), '0')
+
+Time : 14:27:31
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '', 'ffhgfhfgfhgf', 'laki-laki', 'Kabupaten Aceh Besar', '2019/10/04', '1', '.png' at line 1
+Raw SQL : INSERT INTO aluni_anggota_dasar VALUES (ffhgfhfgfhgf', 'ffhgfhfgfhgf', 'laki-laki', 'Kabupaten Aceh Besar', '2019/10/04', '1', '.png', '14', '', '<p>&nbsp;hh</p>', 'ya', 'admin', NOW(), 'admin', NOW(), '0')
+
+Time : 14:27:01
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '', 'hhhhh', 'laki-laki', 'Kabupaten Aceh Besar', '2019/10/04', '1', '.png', '14'' at line 1
+Raw SQL : INSERT INTO aluni_anggota_dasar VALUES (hhhhh', 'hhhhh', 'laki-laki', 'Kabupaten Aceh Besar', '2019/10/04', '1', '.png', '14', '>- Pilih Kota -</option><option value=', '<p>&nbsp;hh</p>', 'ya', 'admin', NOW(), 'admin', NOW(), '0')
+
+Time : 14:26:16
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '', 'hhhhh', 'laki-laki', 'Kabupaten Aceh Besar', '2019/10/04', '1', '.png', '14'' at line 1
+Raw SQL : INSERT INTO aluni_anggota_dasar VALUES (hhhhh', 'hhhhh', 'laki-laki', 'Kabupaten Aceh Besar', '2019/10/04', '1', '.png', '14', '>- Pilih Kota -</option><option value=', '<p>&nbsp;hh</p>', 'ya', 'admin', NOW(), 'admin', NOW(), '0')
+
+Time : 14:23:13
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '', 'hh', 'laki-laki', '', '', '', 'no-img.jpg', '', '', '', 'ya', 'admin', NOW()' at line 1
+Raw SQL : INSERT INTO aluni_anggota_dasar VALUES (hh', 'hh', 'laki-laki', '', '', '', 'no-img.jpg', '', '', '', 'ya', 'admin', NOW(), 'admin', NOW(), '0')
+
+Time : 14:22:02
+SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '' for key 'PRIMARY'
+Raw SQL : INSERT INTO aluni_pengguna VALUES ('', 'fb94e57b2ec581247a56b11890ca883ccc6127adf69c986d5538ff38b1b4281eacbd04680f0cd8aac5a26d6aaa67d26edb64c0437b5144ba12c1709bf1ff8317', 'ae5864db4b7b1ca9975440ddbdaf0631f5e197beebd2bff623c8f06dd8f42329', 'user', 'ya', 'hh', '', 'no-img.jpg', '7', 'admin', NOW(), 'admin', NOW(), '0')
+
+Time : 14:14:19
+SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '' for key 'PRIMARY'
+Raw SQL : INSERT INTO aluni_pengguna VALUES ('', 'b512392192c73d7fd730c8daf39891b3a9bc5307bd739617463d9e5909dcfb18ad0b6553092859a0c191ad58271cbc7024546d412373724f0d60517666e5f5aa', 'a7eaf1bce215e98227063ab9d673f988d3afe998532996e4057aea7772cf54d1', 'user', 'ya', 'YANDI', '', '.png', '6', 'admin', NOW(), 'admin', NOW(), '0')
+
+Time : 14:06:43
+SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '' for key 'PRIMARY'
+Raw SQL : INSERT INTO aluni_pengguna VALUES ('', 'edb7bdb75f5f9f86b5f0bf9e5ce04ad5c00252c1162d2cbb71b7e06d699f73de6aaef04aef7997b86e289feea354e4342066a0833620b02ed10e6790e3747dd4', 'd4834ca98a687f81e2947615e5273072b64fad102b1f47ed1f20a9005962342d', 'user', 'ya', 'sgsgfsg', '', 'no-img.jpg', '5', 'admin', NOW(), 'admin', NOW(), '0')
